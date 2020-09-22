@@ -1,0 +1,11 @@
+https://floridahealthcovid19.gov/
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/state_reports_latest.pdf
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/state_linelist_latest.pdf
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/county_reports_latest.pdf
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/ltcf_latest.pdf
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/ltcf_deaths_latest.pdf
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/apd_report_latest.pdf
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/serology_latest.pdf
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/poc_antibody_latest.pdf
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/pediatric_report_latest.pdf
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/fdc_death_latest.pdf
