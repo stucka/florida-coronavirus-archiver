@@ -9,3 +9,4 @@ http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/serology_lates
 http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/poc_antibody_latest.pdf
 http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/pediatric_report_latest.pdf
 http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/fdc_death_latest.pdf
+https://opendata.arcgis.com/datasets/37abda537d17458bae6677b8ab75fcb9_0.csv
