@@ -1,12 +1,13 @@
-https://floridahealthcovid19.gov/
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/state_reports_latest.pdf
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/state_linelist_latest.pdf
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/county_reports_latest.pdf
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/ltcf_latest.pdf
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/ltcf_deaths_latest.pdf
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/apd_report_latest.pdf
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/serology_latest.pdf
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/poc_antibody_latest.pdf
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/pediatric_report_latest.pdf
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/fdc_death_latest.pdf
-https://opendata.arcgis.com/datasets/37abda537d17458bae6677b8ab75fcb9_0.csv
+https://floridahealthcovid19.gov/    # Main web site
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/state_reports_latest.pdf     # State report
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/state_linelist_latest.pdf    # Case line listing (PDF). See also CSV.
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/county_reports_latest.pdf    # County report
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/ltcf_latest.pdf     # Long-term care facilities with cases
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/ltcf_deaths_latest.pdf    # Long-term care facility deaths
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/apd_report_latest.pdf    # Licensed group homes
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/serology_latest.pdf     # Serology antibody rpeort
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/poc_antibody_latest.pdf      # Point-of-care antibody report
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/pediatric_report_latest.pdf     # Pediatric report
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/fdc_death_latest.pdf     # Florida Department of Corrections deaths
+https://opendata.arcgis.com/datasets/37abda537d17458bae6677b8ab75fcb9_0.csv      # case line listing. See also PDF.
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/schools_latest.pdf     # Cases associated with primary and secondary schools_latest

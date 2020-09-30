@@ -8,7 +8,7 @@ with open("things-to-archive.txt", "r") as infile:
     thingstoarchive = infile.read().splitlines()
 
 for thingtoarchive in thingstoarchive:
-    thingtoarchive = thingtoarchive.strip()
+    thingtoarchive = thingtoarchive.strip().split("#")[0].split()[0].strip()    # Lose all comments
     if len(thingtoarchive) > 0:   # If not a blank line:
         print(f"Trying to archive {thingtoarchive}")
         r = requests.get(archiveprefix + thingtoarchive)
