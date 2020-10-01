@@ -1,13 +1,13 @@
 https://floridahealthcovid19.gov/    # Main web site
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/state_reports_latest.pdf     # State report
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/state_linelist_latest.pdf    # Case line listing (PDF). See also CSV.
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/county_reports_latest.pdf    # County report
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/ltcf_latest.pdf     # Long-term care facilities with cases
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/ltcf_deaths_latest.pdf    # Long-term care facility deaths
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/apd_report_latest.pdf    # Licensed group homes
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/serology_latest.pdf     # Serology antibody rpeort
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/poc_antibody_latest.pdf      # Point-of-care antibody report
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/pediatric_report_latest.pdf     # Pediatric report
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/fdc_death_latest.pdf     # Florida Department of Corrections deaths
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/cases-monitoring-and-pui-information/state-report/state_reports_latest.pdf     # State report
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/cases-monitoring-and-pui-information/state-linelist/state_linelist_latest.pdf    # Case line listing (PDF). See also CSV.
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/cases-monitoring-and-pui-information/county-report/county_reports_latest.pdf    # County report
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/long-term-care-facilities/ltcf-case-reports/ltcf_latest.pdf     # Long-term care facilities with cases
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/long-term-care-facilities/ltcf-deaths-reports/ltcf_deaths_latest.pdf    # Long-term care facility deaths
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/licensed-group-homes-cases/apd_report_latest.pdf    # Licensed group homes
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/total-antibody-results/serology-reports/serology_latest.pdf    # Serology antibody report
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/total-antibody-results/point-of-care-reports/poc_antibody_latest.pdf     # Point-of-care antibody report
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/pediatric-reports/pediatric_report_latest.pdf    # Pediatric report
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/school-reports/schools_latest.pdf    # Cases associated with primary and secondary schools and colleges
+http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/correction-facilities-deaths/fdc_death_latest.pdf    # Florida Department of Corrections deaths
 https://opendata.arcgis.com/datasets/37abda537d17458bae6677b8ab75fcb9_0.csv      # case line listing. See also PDF.
-http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/schools_latest.pdf     # Cases associated with primary and secondary schools_latest
