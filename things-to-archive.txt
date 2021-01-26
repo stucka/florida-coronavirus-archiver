@@ -11,3 +11,4 @@ http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/pediatric-repo
 http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/school-reports/schools_latest.pdf    # Cases associated with primary and secondary schools and colleges
 http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/correction-facilities-deaths/fdc_death_latest.pdf    # Florida Department of Corrections deaths
 https://opendata.arcgis.com/datasets/37abda537d17458bae6677b8ab75fcb9_0.csv      # case line listing. See also PDF.
+https://www.cdc.gov/coronavirus/2019-ncov/modules/lineage-cases.json        # CDC variants
