@@ -1,5 +1,6 @@
 https://floridahealthcovid19.gov/    # Main web site
 http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/covid19-data/covid19_data_latest.pdf   # Only remaining state report
+https://www.gannett-cdn.com/experiments/usatoday/_data/covid-vaccine/vaccine_times/state_vaccine_distribution_time_series.json     # CDC vaccines-by-state data
 # http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/cases-monitoring-and-pui-information/state-report/state_reports_latest.pdf     # State report
 # http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/cases-monitoring-and-pui-information/state-linelist/state_linelist_latest.pdf    # Case line listing (PDF). See also CSV.
 # http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/cases-monitoring-and-pui-information/county-report/county_reports_latest.pdf    # County report
